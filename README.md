@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=7B66FF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B66FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marcus+Pereira;I'm+22+years+old;I+from+Brazil;I+am+studying+systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B66FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Marcus+Pereira;I'm+23+years+old;I+from+Brazil;I+am+studying+Systems+Development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcuspereira02&show_icons=true&count_private=true&hide_border=true&title_color=7B66FF&icon_color=7B66FF&text_color=c9d1d9&bg_color=0d1117" alt="Marcus Pereira github stats" /> 

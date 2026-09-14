@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Marcus 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9D00FF&center=true&vCenter=true&width=500&lines=Software+Developer;Kotlin+%7C+Java;Nice+to+meet+you" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=9D00FF&center=true&vCenter=true&width=500&lines=Software+Developer;Kotlin+%7C+Java;Nice+to+meet+you!" alt="Typing SVG" />
 </p>
 
 ---
